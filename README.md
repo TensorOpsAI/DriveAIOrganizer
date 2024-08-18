@@ -6,6 +6,13 @@ This Python script is designed to help you efficiently organize files in your Go
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TensorOpsAI/DriveAIOrganizer/blob/main/Google_Drive_File_Organizer.ipynb)
 
+## User Interface
+
+The user interface provides an interactive way to review and manage file organization suggestions. It includes a table of files with options to "Accept" or "Decline" each suggestion. Here’s a screenshot of the UI:
+
+![Accept/Decline UI](https://github.com/TensorOpsAI/DriveAIOrganizer/blob/main/resources/Accept%20decline.png)
+
+
 ## Features
 
 - **Google Drive Integration**: Access and list files from your personal Google Drive and any shared drives you have access to.
@@ -35,13 +42,6 @@ This Python script is designed to help you efficiently organize files in your Go
 2. **API Key**: Input your OpenAI API key to enable AI-powered suggestions.
 3. **File Organization**: The script will analyze your files and provide organization suggestions.
 4. **Review Results**: Classification results are saved as a CSV file in your Google Drive.
-
-## User Interface
-
-The user interface provides an interactive way to review and manage file organization suggestions. It includes a table of files with options to "Accept" or "Decline" each suggestion. Here’s a screenshot of the UI:
-
-![Accept/Decline UI](https://github.com/TensorOpsAI/DriveAIOrganizer/blob/main/resources/Accept%20decline.png)
-
 
 ## Contributing
 
