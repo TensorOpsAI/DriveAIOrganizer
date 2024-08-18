@@ -1,6 +1,6 @@
 # Google Drive Organizer
 
-This Python script is designed to help you efficiently organize files in your Google Drive, including both your personal drive and shared company drives. It uses the Google Drive API to list and manage files and folders, and integrates with the OpenAI API to provide intelligent suggestions for optimal file organization.
+This Python script is designed to help you efficiently organize files in your Google Drive, including both your personal drive and shared company drives. It uses the Google Drive API to list and manage files and folders and integrates with the OpenAI API to provide intelligent suggestions for optimal file organization.
 
 ## Features
 
@@ -32,6 +32,12 @@ This Python script is designed to help you efficiently organize files in your Go
 3. **File Organization**: The script will analyze your files and provide organization suggestions.
 4. **Review Results**: Classification results are saved as a CSV file in your Google Drive.
 
+## User Interface
+
+The user interface provides an interactive way to review and manage file organization suggestions. It includes a table of files with options to "Accept" or "Decline" each suggestion. Here’s a screenshot of the UI:
+
+![Accept/Decline UI](https://github.com/TensorOpsAI/DriveAIOrganizer/blob/main/resources/Accept%20decline.png)
+
 ## Open with Google Colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TensorOpsAI/DriveAIOrganizer/blob/main/Google_Drive_File_Organizer.ipynb)
@@ -46,4 +52,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [Google Colab](https://colab.research.google.com/) for providing a cloud-based Python
+- [Google Colab](https://colab.research.google.com/) for providing a cloud-based Python environment.
+- [OpenAI](https://openai.com/) for the powerful AI models used in this project.
