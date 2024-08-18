@@ -32,6 +32,10 @@ This Python script is designed to help you efficiently organize files in your Go
 3. **File Organization**: The script will analyze your files and provide organization suggestions.
 4. **Review Results**: Classification results are saved as a CSV file in your Google Drive.
 
+## Open with Google Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TensorOpsAI/DriveAIOrganizer/blob/main/Google_Drive_File_Organizer.ipynb)
+
 ## Contributing
 
 We welcome contributions! Feel free to fork the repository, open issues, or submit pull requests.
@@ -42,7 +46,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [Google Colab](https://colab.research.google.com/) for providing a cloud-based Python environment.
-- [Google Drive API](https://developers.google.com/drive) for file management capabilities.
-- [OpenAI API](https://openai.com/api/) for AI-driven file organization.
-
+- [Google Colab](https://colab.research.google.com/) for providing a cloud-based Python
